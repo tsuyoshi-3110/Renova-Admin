@@ -38,6 +38,7 @@ export default function AdminNavbar() {
     () => [
       { href: "/", label: "アカウント作成" },
       { href: "/members", label: "メンバー一覧" },
+      { href: "/steps", label: "工程設定" },
     ],
     [],
   );
